@@ -1,5 +1,6 @@
 # CI2024_lab1
-First lab for the Computational Intelligence course.
+First lab for the Computational Intelligence course. Objective of the lab: finding the best algorithm for finding the best solution for the Set Cover problem.
+
 I compared 4 different algorithms (Random Mutation Hill Climbing, Random Mutation Hill Climbing with multiple mutations, Simulated Annealing and a Greedy Algorithm) for instance 2 (see the instances below). 
 
 The Greedy Algorithm performed better than the other 3, so I chosed it and used it for all the instances. In this table you can see my results:
